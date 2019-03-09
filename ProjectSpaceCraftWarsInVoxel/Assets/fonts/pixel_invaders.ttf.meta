@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: af1a5fea92b797d47bd6a818b2acfbd8
+timeCreated: 1492354862
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Pixel Invaders
+  fontNames:
+  - Pixel Invaders
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

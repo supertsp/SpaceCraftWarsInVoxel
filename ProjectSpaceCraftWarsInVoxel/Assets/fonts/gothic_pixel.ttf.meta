@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0bda77ccdfd55224b9f9c7b4d1ed1e04
+timeCreated: 1492354831
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gothic Pixel
+  fontNames:
+  - Gothic Pixel
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
